@@ -1,0 +1,9 @@
+{
+	"name": "CfdataADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb283b0d-5591-4eed-9c7f-8133efbf00c5",
+		"tenantId": "72f8e370-0fb4-4883-9c15-9617ba8732f6"
+	}
+}
